@@ -17,6 +17,7 @@ Things you may want to cover:
 
 * How to run the test suite
 * คำสั่ง run ขึ้น server ของ docker : docker run -p 3000:3000 --rm toy_app
+* คำสั่ง run ขึ้น server ของ rails : rails server
 
 * Services (job queues, cache servers, search engines, etc.)
 
