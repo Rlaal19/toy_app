@@ -23,5 +23,6 @@ Things you may want to cover:
 
 * Deployment instructions
 * link website deploy : https://rlaal-toyapp.onrender.com
+* ลิงค์ micropost : https://rlaal-toyapp.onrender.com/microposts
 * ...
 # toy_app
